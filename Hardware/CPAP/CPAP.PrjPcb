@@ -44,6 +44,8 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+XNetsSourceDestinationPrefixes=U, X
+XNetsDiscretesPrefixes=R, L, C, VD
 
 [Preferences]
 PrefsVaultGUID=
@@ -56,7 +58,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -73,7 +75,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -82,6 +84,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTDRIEEY
+
+[Document3]
+DocumentPath=PCB_proc.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OAGVLFUL
 
 [Configuration1]
 Name=Sources
@@ -826,6 +845,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -1055,18 +1076,20 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
-L2=NNWNNNNWWWNWNWNWN
-L3=NWEENEEEENEWNEEWN
+L2=NNNNNNNWNNNWNWNWN
+L3=NNEENEEEENEWNEEWN
 L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
 L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
-L10=NWNNNNNENNEWNNEWN
+L9=NNEENEEEENEWNEEWW
+L10=NNNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
 L13=NNNNNNNNNNNWNNNWW
