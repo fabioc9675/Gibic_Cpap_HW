@@ -78,7 +78,7 @@ AnnotateScope=All
 AnnotateOrder=1
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
+ClassGenCCAutoEnabled=0
 ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
@@ -86,7 +86,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HTDRIEEY
 
 [Document3]
-DocumentPath=PCB_proc.PcbDoc
+DocumentPath=pcb_proc.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -100,7 +100,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=BIWNGCAD
+DocumentUniqueId=VSVBLHSS
 
 [Configuration1]
 Name=Sources
