@@ -1,0 +1,43 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Darwin\Desktop\IC_Freescale Semiconductor_MP3V5004DP\db.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=db.xlsx
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Components$
+[Table1]
+SchemaName=
+TableName=Components$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=77|Library Path0=312|Description0=739|Footprint Path0=341|Footprint Ref0=226|Part Number0=87|Datasheet Path0=327|Accuracy0=67|Ambient Temperature Range High0=198|Ambient Temperature Range Low0=194|Automotive0=82|Category0=69|ComponentLink1Description0=170|ComponentLink1URL0=259|ComponentLink2Description0=170|ComponentLink2URL0=309|Device Class L10=99|Device Class L20=99|Device Class L30=99|Digikey Description0=152|Digikey Part Number0=128|Footprint Url0=371|Height0=58|Ipc Land Pattern Name0=138|Lead Free0=72|Manufacturer0=135|Max Supply Voltage0=125|Min Supply Voltage0=124|Mouser Description0=328|Mouser Part Number0=129|Operating Supply Current0=156|Output Voltage0=104|Package0=65|Port Style0=71|RoHS0=51|Sensor Output0=99|Standoff Height0=106|Supplier 10=75|Supplier 20=75|Supplier Part Number 10=142|Supplier Part Number 20=142|Symbol Hash0=394|Temperature0=88|Temperature Range High0=152|Temperature Range Low0=148|helpURL0=259
+[FieldMap1]
+Options=FieldName=Components$.Library Ref|TableNameOnly=Components$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Components$.Library Path|TableNameOnly=Components$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Components$.Description|TableNameOnly=Components$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Components$.Footprint Path|TableNameOnly=Components$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Components$.Footprint Ref|TableNameOnly=Components$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Components$.Part Number|TableNameOnly=Components$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
