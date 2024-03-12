@@ -157,6 +157,23 @@ GenerateClassCluster=0
 DocumentUniqueId=EOPLSAJD
 
 [Document8]
+DocumentPath=Sen_PF.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FZEZAQMX
+
+[Document9]
 DocumentPath=Processor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDNWABXF
 
-[Document9]
+[Document10]
 DocumentPath=pcb_proc.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSVBLHSS
 
-[Document10]
+[Document11]
 DocumentPath=..\LBR\LIB_SDP810-125Pa\SDP810125Pa.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNRAESWK
 
-[Document11]
+[Document12]
 DocumentPath=..\LBR\1056\1056.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JAYGYOAO
 
-[Document12]
+[Document13]
 DocumentPath=..\LBR\1056\BAT_1056.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1

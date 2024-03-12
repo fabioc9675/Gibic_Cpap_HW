@@ -1,0 +1,47 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=Microsoft.ACE.OLEDB.12.0;Data Source=C:\Users\Darwin\Documents\GitHub\Gibic_Cpap_HW\Hardware\LBR\LIB_BH1750FVI-TR\db.xlsx;Extended Properties="Excel 12.0 Xml;HDR=Yes;IMEX=1"
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=0
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Excel 2007
+LibraryDatabasePath=db.xlsx
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Upverter$
+[Table1]
+SchemaName=
+TableName=Upverter$
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=87|Library Ref0=79|Library Path0=221|Footprint Ref0=129|Footprint Path0=232|Datasheet Path0=236|Capacitance0=85|ComponentLink1Description0=170|ComponentLink1URL0=284|ComponentLink2Description0=170|ComponentLink2URL0=433|Datasheet Path10=236|Description0=186|Digikey Description0=186|Digikey Part Number0=128|Footprint Path10=232|Footprint Ref10=129|Inductance0=80|Lead Free0=72|Library Path10=221|Library Ref10=83|Manufacturer0=93|Mouser Part Number0=129|Package0=65|Price0=77|Resistance0=77|RoHS0=51|Supplier 10=75|Supplier 20=75|Supplier Part Number 10=142|Supplier Part Number 20=142|Temperature0=88|Temperature Range High0=152|Temperature Range Low0=148|Value0=52|Voltage0=63|helpURL0=284
+[FieldMap1]
+Options=FieldName=Upverter$.Part Number|TableNameOnly=Upverter$|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Upverter$.Library Ref|TableNameOnly=Upverter$|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Upverter$.Library Path|TableNameOnly=Upverter$|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Upverter$.Footprint Ref|TableNameOnly=Upverter$|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Upverter$.Footprint Path|TableNameOnly=Upverter$|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap6]
+Options=FieldName=Upverter$.Description|TableNameOnly=Upverter$|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap7]
+Options=FieldName=Upverter$.Footprint Path1|TableNameOnly=Upverter$|FieldNameOnly=Footprint Path1|FieldType=1|ParameterName=[Footprint Path1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap8]
+Options=FieldName=Upverter$.Footprint Ref1|TableNameOnly=Upverter$|FieldNameOnly=Footprint Ref1|FieldType=1|ParameterName=[Footprint Ref1]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
