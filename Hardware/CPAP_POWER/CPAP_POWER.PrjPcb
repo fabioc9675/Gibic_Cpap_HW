@@ -38,6 +38,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\LBR\Tb2\1935161.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AFKIQPQZ
+
+[Document2]
+DocumentPath=..\LBR\Tb2\1935161.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AKTHIEZN
+
+[Document3]
 DocumentPath=..\LBR\DRV8316CTRGFR\AltiumDesigner\DRV8316CTRGFR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUWYJBPU
 
-[Document2]
+[Document4]
 DocumentPath=..\LBR\DRV8316CTRGFR\AltiumDesigner\DRV8316CTRGFR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPNRADJT
 
-[Document3]
+[Document5]
 DocumentPath=Supplies01.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTDRIEEY
 
-[Document4]
+[Document6]
 DocumentPath=Supplies02.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBEHHOE
 
-[Document5]
+[Document7]
 DocumentPath=..\LBR\net_tie\net_tie.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTXVWTOI
 
-[Document6]
+[Document8]
 DocumentPath=..\LBR\net_tie\net_tie.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEZVSNNO
 
-[Document7]
+[Document9]
 DocumentPath=PCB_POWER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
