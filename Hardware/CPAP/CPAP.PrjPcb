@@ -52,6 +52,40 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\LBR\LIB_BH1750FVI-TR\parts\IC_ROHM_BH1750FVI-TR_eec_0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WRHFOMXT
+
+[Document2]
+DocumentPath=..\LBR\LIB_BH1750FVI-TR\parts\IC_ROHM_BH1750FVI-TR_eec.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMKEEDTV
+
+[Document3]
 DocumentPath=..\LBR\LIB_61200621621\SHDR6W64P254_2X3_1528X910X910P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -68,7 +102,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWPYIBYN
 
-[Document2]
+[Document4]
 DocumentPath=..\LBR\LIB_61200621621\61200621621.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -85,7 +119,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANJFNLQS
 
-[Document3]
+[Document5]
 DocumentPath=..\LBR\S3B-PH-SM4-TB_LF__SN_\S3B-PH-SM4-TBLFSN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -102,7 +136,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAUABOJA
 
-[Document4]
+[Document6]
 DocumentPath=..\LBR\S3B-PH-SM4-TB_LF__SN_\S3B-PH-SM4-TBLFSN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -119,7 +153,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LPXKFKON
 
-[Document5]
+[Document7]
 DocumentPath=..\LBR\S4B-PH-SM4-TBLFSN\S4B-PH-SM4-TBLFSN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MZIAZSES
 
-[Document6]
+[Document8]
 DocumentPath=..\LBR\S4B-PH-SM4-TBLFSN\S4B-PH-SM4-TBLFSN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FXBXMSPS
 
-[Document7]
+[Document9]
 DocumentPath=..\LBR\LIB_DS1338Z-33+\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACMWOCCE
 
-[Document8]
+[Document10]
 DocumentPath=..\LBR\LIB_DS1338Z-33+\DS1338Z-33+.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AMUAQAWW
 
-[Document9]
+[Document11]
 DocumentPath=..\LBR\LIB_SDP810-125Pa\SDP810-125Pa.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASTMFTRP
 
-[Document10]
+[Document12]
 DocumentPath=..\LBR\LIB_ESP32-S3-WROOM-1-N8R8_3D\ESP32-S3-WROOM-1-N8R8.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGWIWHAM
 
-[Document11]
+[Document13]
 DocumentPath=..\LBR\LIB_ESP32-S3-WROOM-1-N8R8_3D\ESP32S3WROOM1N8R8.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCRQMYWU
 
-[Document12]
+[Document14]
 DocumentPath=Sen_PF.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FZEZAQMX
 
-[Document13]
+[Document15]
 DocumentPath=Processor.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=XDNWABXF
 
-[Document14]
+[Document16]
 DocumentPath=pcb_proc.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VSVBLHSS
 
-[Document15]
+[Document17]
 DocumentPath=..\LBR\LIB_SDP810-125Pa\SDP810125Pa.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNRAESWK
 
-[Document16]
+[Document18]
 DocumentPath=..\LBR\1056\1056.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JAYGYOAO
 
-[Document17]
+[Document19]
 DocumentPath=..\LBR\1056\BAT_1056.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1397,6 +1431,10 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=3V3|NetColor=$006E6EFF
 Net2=NetName=GND|NetColor=$0000BE00
+Net3=NetName=SCL1|NetColor=clBlack
+Net4=NetName=SCL1_1|NetColor=clBlack
+Net5=NetName=SDA1|NetColor=clBlack
+Net6=NetName=SDA1_1|NetColor=clBlack
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
