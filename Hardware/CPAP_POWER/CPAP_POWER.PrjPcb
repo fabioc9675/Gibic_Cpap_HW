@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -50,6 +50,108 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\LBR\LIB_61200621621\61200621621.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ANJFNLQS
+
+[Document2]
+DocumentPath=..\LBR\LIB_70246-1201\70246-1201.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AJMZQKCR
+
+[Document3]
+DocumentPath=..\LBR\LIB_61200621621\SHDR6W64P254_2X3_1528X910X910P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AWPYIBYN
+
+[Document4]
+DocumentPath=..\LBR\LIB_70246-1201\SHDR12W99P254_2X6_2286X889X927P.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AGXUJYSD
+
+[Document5]
+DocumentPath=..\LBR\LM358\SOIC127P600X175-8N.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLZLJWEB
+
+[Document6]
+DocumentPath=..\LBR\LM358\LM358M.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WKRNMOTW
+
+[Document7]
 DocumentPath=..\LBR\LIB_691322110002\691322110002.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -66,7 +168,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOCJDLGN
 
-[Document2]
+[Document8]
 DocumentPath=..\LBR\LIB_691322110002\SHDRRA2W80P0X350_1X2_840X920X720P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +185,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNPXYXDB
 
-[Document3]
+[Document9]
 DocumentPath=..\LBR\LIB_691322110003\SHDRRA3W80P0X350_1X3_1190X920X700P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +202,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXLYDSTH
 
-[Document4]
+[Document10]
 DocumentPath=..\LBR\LIB_691322110003\691322110003.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,41 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFHDWOJJ
 
-[Document5]
-DocumentPath=..\LBR\Tb2\1935161.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AFKIQPQZ
-
-[Document6]
-DocumentPath=..\LBR\Tb2\1935161.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=AKTHIEZN
-
-[Document7]
+[Document11]
 DocumentPath=..\LBR\DRV8316CTRGFR\AltiumDesigner\DRV8316CTRGFR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUWYJBPU
 
-[Document8]
+[Document12]
 DocumentPath=..\LBR\DRV8316CTRGFR\AltiumDesigner\DRV8316CTRGFR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPNRADJT
 
-[Document9]
+[Document13]
 DocumentPath=Supplies01.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTDRIEEY
 
-[Document10]
+[Document14]
 DocumentPath=Supplies02.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -219,7 +287,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBEHHOE
 
-[Document11]
+[Document15]
 DocumentPath=..\LBR\net_tie\net_tie.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -236,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTXVWTOI
 
-[Document12]
+[Document16]
 DocumentPath=..\LBR\net_tie\net_tie.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -253,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEZVSNNO
 
-[Document13]
+[Document17]
 DocumentPath=PCB_POWER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPAALIPD
 
-[Document14]
+[Document18]
 DocumentPath=Supply_12V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGMOLGOE
 
-[Document15]
+[Document19]
 DocumentPath=Supply_5V0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUUKQGOV
 
-[Document16]
+[Document20]
 DocumentPath=Supply_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHRXOGFR
 
-[Document17]
+[Document21]
 DocumentPath=Supply_3V0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1170,7 +1238,7 @@ Type6=2
 Type7=0
 Type8=1
 Type9=1
-Type10=1
+Type10=0
 Type11=2
 Type12=2
 Type13=2
@@ -1356,7 +1424,7 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
