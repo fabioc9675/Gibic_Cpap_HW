@@ -484,6 +484,98 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for CPAP_POWER\Design Rule Check - PCB_POWER.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for CPAP_POWER\NC Drill\PCB_POWER.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GKO
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GM5
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GM13
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GM15
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GM16
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for CPAP_POWER\NC Drill\PCB_POWER.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.REP
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for CPAP_POWER\Gerber\PCB_POWER.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for CPAP_POWER\ExportSTEP\PCB_POWER.step
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for CPAP_POWER\NC Drill\PCB_POWER.TXT
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -492,6 +584,9 @@ ReleaseItemId=
 CurrentRevision=
 Variant=[No Variations]
 OutputJobsCount=0
+
+[Generic_EDE]
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
