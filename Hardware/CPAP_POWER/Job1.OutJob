@@ -74,7 +74,7 @@ Configuration1_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowPr
 OutputType2=PCB 3D Print
 OutputName2=PCB 3D Print
 OutputCategory2=Documentation
-OutputDocumentPath2=PCB_POWER.PcbDoc
+OutputDocumentPath2=
 OutputVariantName2=
 OutputEnabled2=0
 OutputEnabled2_OutputMedium1=0
@@ -96,7 +96,7 @@ Configuration2_Item1=Record=Pcb3DPrintView|ResX=150|ResY=150|ViewX=39370079|View
 OutputType3=PDF3D
 OutputName3=PDF3D
 OutputCategory3=Documentation
-OutputDocumentPath3=PCB_POWER.PcbDoc
+OutputDocumentPath3=
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -118,7 +118,7 @@ Configuration3_Item1=Record=ExportPDF3DSetting|Version=110|Format=0|Flags=8158|S
 OutputType4=ExportSTEP
 OutputName4=Export STEP
 OutputCategory4=Export
-OutputDocumentPath4=PCB_POWER.PcbDoc
+OutputDocumentPath4=
 OutputVariantName4=
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
@@ -139,7 +139,7 @@ Configuration4_Item1=Record=ExportSTEPView|ExportComponentOptions=0|ExportModels
 OutputType5=PCB Print
 OutputName5=PCB Prints
 OutputCategory5=Documentation
-OutputDocumentPath5=PCB_POWER.PcbDoc
+OutputDocumentPath5=
 OutputVariantName5=
 OutputEnabled5=0
 OutputEnabled5_OutputMedium1=0
@@ -298,7 +298,7 @@ Configuration8_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False
 OutputType9=Gerber
 OutputName9=Gerber Files
 OutputCategory9=Fabrication
-OutputDocumentPath9=PCB_POWER.PcbDoc
+OutputDocumentPath9=
 OutputVariantName9=
 OutputEnabled9=1
 OutputEnabled9_OutputMedium1=0
@@ -315,11 +315,11 @@ OutputEnabled9_OutputMedium11=1
 OutputEnabled9_OutputMedium12=0
 OutputDefault9=0
 Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908293~1,16908301~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
+Configuration9_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=50|MinusApertureTolerance=50|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=50|PlusApertureTolerance=50|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False
 OutputType10=NC Drill
 OutputName10=NC Drill Files
 OutputCategory10=Fabrication
-OutputDocumentPath10=PCB_POWER.PcbDoc
+OutputDocumentPath10=
 OutputVariantName10=
 OutputEnabled10=1
 OutputEnabled10_OutputMedium1=0
@@ -340,7 +340,7 @@ Configuration10_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|G
 OutputType11=Design Rules Check
 OutputName11=Design Rules Check
 OutputCategory11=Validation
-OutputDocumentPath11=PCB_POWER.PcbDoc
+OutputDocumentPath11=
 OutputVariantName11=
 OutputEnabled11=0
 OutputEnabled11_OutputMedium1=0
@@ -362,7 +362,7 @@ Configuration11_Item1=??
 OutputType12=Differences Report
 OutputName12=Differences Report
 OutputCategory12=Validation
-OutputDocumentPath12=PCB_POWER.PcbDoc
+OutputDocumentPath12=
 OutputVariantName12=
 OutputEnabled12=0
 OutputEnabled12_OutputMedium1=0
