@@ -1,6 +1,6 @@
 ﻿[Design]
 Version=1.0
-HierarchyMode=3
+HierarchyMode=2
 ChannelRoomNamingStyle=0
 ReleasesFolder=
 ChannelDesignatorFormatString=$Component_$RoomName
@@ -38,6 +38,125 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LM2576S\LM2576S_12_NOPB_0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NTRSMQLC
+
+[Document2]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LD1117DT50CTR\LD1117DT50CTR_2.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IQTMKNRD
+
+[Document3]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LM2576S\LM2576S_12_NOPB.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UVXUPDXW
+
+[Document4]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LD1117DT50CTR\LD1117DT50CTR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VPTIGXQE
+
+[Document5]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\IPD068P03L3\IPD068P03L3_G.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KJPAAALG
+
+[Document6]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\IPD068P03L3\IPD068P03L3_G_0.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ETMIWCFT
+
+[Document7]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LD1117DTC_R\LD1117DTC_R.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VPTIGXQE
+
+[Document8]
 DocumentPath=..\LBR\LIB_61200621621\61200621621.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ANJFNLQS
 
-[Document2]
+[Document9]
 DocumentPath=..\LBR\LIB_70246-1201\70246-1201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +190,92 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJMZQKCR
 
-[Document3]
+[Document10]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\STM32G030K8T6\STM32G030K8T6.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=DMGGDHNE
+
+[Document11]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LD1117DT33TR\LD1117DT33.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
+
+[Document12]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LD1117DTC_R\LD1117DTC_R.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document13]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\LD1117DT33TR\LD1117DT33.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document14]
+DocumentPath=..\..\..\..\Gibic_Cpap_HW-Production\Gibic_Cpap_HW-Production\Hardware\LBR\STM32G030K8T6\STM32G030K8T6.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LLRCFYNG
+
+[Document15]
 DocumentPath=..\LBR\LIB_61200621621\SHDR6W64P254_2X3_1528X910X910P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWPYIBYN
 
-[Document4]
+[Document16]
 DocumentPath=..\LBR\LIB_70246-1201\SHDR12W99P254_2X6_2286X889X927P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -105,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGXUJYSD
 
-[Document5]
+[Document17]
 DocumentPath=..\LBR\LM358\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLZLJWEB
 
-[Document6]
+[Document18]
 DocumentPath=..\LBR\LM358\LM358M.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WKRNMOTW
 
-[Document7]
+[Document19]
 DocumentPath=..\LBR\LIB_691322110002\691322110002.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BOCJDLGN
 
-[Document8]
+[Document20]
 DocumentPath=..\LBR\LIB_691322110002\SHDRRA2W80P0X350_1X2_840X920X720P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,7 +377,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNPXYXDB
 
-[Document9]
+[Document21]
 DocumentPath=..\LBR\LIB_691322110003\SHDRRA3W80P0X350_1X3_1190X920X700P.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +394,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXLYDSTH
 
-[Document10]
+[Document22]
 DocumentPath=..\LBR\LIB_691322110003\691322110003.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +411,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AFHDWOJJ
 
-[Document11]
+[Document23]
 DocumentPath=..\LBR\DRV8316CTRGFR\AltiumDesigner\DRV8316CTRGFR.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +428,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KUWYJBPU
 
-[Document12]
+[Document24]
 DocumentPath=..\LBR\DRV8316CTRGFR\AltiumDesigner\DRV8316CTRGFR.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +445,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NPNRADJT
 
-[Document13]
+[Document25]
 DocumentPath=Supplies01.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,8 +462,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HTDRIEEY
 
-[Document14]
-DocumentPath=Supplies02.SchDoc
+[Document26]
+DocumentPath=BLDC.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -275,7 +479,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TKBEHHOE
 
-[Document15]
+[Document27]
 DocumentPath=..\LBR\net_tie\net_tie.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +496,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTXVWTOI
 
-[Document16]
+[Document28]
 DocumentPath=..\LBR\net_tie\net_tie.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +513,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AEZVSNNO
 
-[Document17]
+[Document29]
 DocumentPath=PCB_POWER.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +530,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BPAALIPD
 
-[Document18]
+[Document30]
 DocumentPath=Supply_12V.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +547,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HGMOLGOE
 
-[Document19]
+[Document31]
 DocumentPath=Supply_5V0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +564,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RUUKQGOV
 
-[Document20]
+[Document32]
 DocumentPath=Supply_3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -377,7 +581,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BHRXOGFR
 
-[Document21]
+[Document33]
 DocumentPath=Supply_3V0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -394,7 +598,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHOKAUPN
 
-[Document22]
+[Document34]
 DocumentPath=..\LBR\S3B-PH-SM4-TB_LF__SN_\S3B-PH-SM4-TBLFSN.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -411,7 +615,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document23]
+[Document35]
 DocumentPath=..\LBR\S3B-PH-SM4-TB_LF__SN_\S3B-PH-SM4-TBLFSN.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -428,7 +632,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OAUABOJA
 
-[Document24]
+[Document36]
 DocumentPath=..\LBR\LIB_LM334MX\LM334MX.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -445,7 +649,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AWBOQHYY
 
-[Document25]
+[Document37]
 DocumentPath=..\LBR\LIB_LM334MX\SOIC127P600X175-8N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -462,7 +666,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document26]
+[Document38]
 DocumentPath=Job1.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -478,6 +682,74 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document39]
+DocumentPath=TopLevel.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BAGWXUVN
+
+[Document40]
+DocumentPath=PowerOut.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JZFEPBXI
+
+[Document41]
+DocumentPath=MCU.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KIGVADEB
+
+[Document42]
+DocumentPath=BLDC_ext.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BKEZIYIY
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for CPAP_POWER\Design Rule Check - PCB_POWER.html
@@ -1023,36 +1295,6 @@ OutputName11=Specctra Design PCB
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=Ansoft Neutral
-OutputName12=Ansoft Neutral (AutoPCB)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=HyperLynx
-OutputName13=HyperLynx (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=Orcad v7 Capture Design
-OutputName14=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD ASCII
-OutputName15=P-CAD ASCII (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=P-CAD V16 Schematic Design
-OutputName16=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
